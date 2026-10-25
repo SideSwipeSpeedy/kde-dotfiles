@@ -1,0 +1,23 @@
+[mgr]
+
+[mgr.cwd]
+fg = "#dfc700"
+
+[mode]
+
+[mode.normal_main]
+bg = "#dfc700"
+fg = "#373100"
+
+[mode.select_main]
+bg = "#c8ca94"
+fg = "#30330b"
+
+[mode.unset_main]
+bg = "#b9cf8d"
+fg = "#263504"
+
+[status]
+
+[status.perm_exec]
+fg = "#dfc700"

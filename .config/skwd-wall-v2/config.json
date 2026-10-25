@@ -1,0 +1,54 @@
+{
+  "components": {
+    "wallpaperSelector": {
+      "displayMode": "slices",
+      "enabled": true,
+      "gridLayout": "cylinder",
+      "handMove": "cycle",
+      "hexCurve": "s",
+      "hexShape": "hexagon"
+    }
+  },
+  "effects": {
+    "autoRecolor": false
+  },
+  "general": {
+    "randomIncludeFavourites": false,
+    "randomInterval": 86400,
+    "randomRotate": false
+  },
+  "lockScreens": {
+    "dms": false,
+    "hyprlock": false,
+    "mode": "follow",
+    "noctalia": false,
+    "sddmImage": "/var/lib/skwd/lockscreens/1000/wallpaper.png",
+    "swaylock": false
+  },
+  "motion": {
+    "filterSwapSpeed": "fast",
+    "launchSpeed": "fast"
+  },
+  "plasma": {
+    "lockScreen": {
+      "mode": "follow"
+    }
+  },
+  "playback": {
+    "fullscreen": true,
+    "maximized": true,
+    "processEnabled": false
+  },
+  "theme": {
+    "appProfiles": {
+      "kde": ""
+    },
+    "policy": "wallpaper",
+    "scheme": "vibrant"
+  },
+  "weather": {
+    "outdoors": {
+      "transitionShader": "random"
+    }
+  }
+}
